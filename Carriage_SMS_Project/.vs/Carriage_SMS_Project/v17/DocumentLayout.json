@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\maincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\maincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\opcview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\serverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\serverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\iviews\\iframeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\iframeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\iviews\\imaincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\imaincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\iviews\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\iviews\\iserverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\iserverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\iviews\\imessageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\imessageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\mainview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\closeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\closeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\styler\\mainviewstyler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\mainviewstyler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\iviews\\ilistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\ilistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\styler\\roundborderpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundborderpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\presenters\\mainuipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:presenters\\mainuipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\styler\\roundborderpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundborderpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\styler\\custompicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\custompicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\styler\\custompicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\custompicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\opcview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\styler\\roundlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\extension\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:extension\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\views\\messageview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\messageview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|c:\\users\\yang\\desktop\\carriage_sms_project\\styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\styler\\roundlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.cs",
+              "RelativeToolTip": "Views\\MainView.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAiwKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:04:56.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\MainView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:04:01.017Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MessageView.cs",
+              "RelativeDocumentMoniker": "Views\\MessageView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MessageView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\MessageView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:36:16.83Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpcView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.cs",
+              "RelativeDocumentMoniker": "Views\\OpcView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.cs",
+              "RelativeToolTip": "Views\\OpcView.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:16:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpcView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\OpcView.Designer.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.Designer.cs",
+              "RelativeToolTip": "Views\\OpcView.Designer.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAkwGQBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:20:11.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.Designer.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.Designer.cs",
+              "RelativeToolTip": "Views\\MainView.Designer.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAkwMUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:17:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainContentView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainContentView.cs",
+              "RelativeDocumentMoniker": "Views\\MainContentView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainContentView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\MainContentView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:06:50.527Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpcView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.cs",
+              "RelativeDocumentMoniker": "Views\\OpcView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\OpcView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:15:59.414Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFrameView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IFrameView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IFrameView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IFrameView.cs",
+              "RelativeToolTip": "Views\\IViews\\IFrameView.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvw4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:43:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MessageView.cs",
+              "RelativeDocumentMoniker": "Views\\MessageView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MessageView.cs",
+              "RelativeToolTip": "Views\\MessageView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:26:49.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IMainView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IMainView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IMainView.cs",
+              "RelativeToolTip": "Views\\IViews\\IMainView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:04:01.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMainContentView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IMainContentView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IMainContentView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IMainContentView.cs",
+              "RelativeToolTip": "Views\\IViews\\IMainContentView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:07:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServerView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\ServerView.cs",
+              "RelativeDocumentMoniker": "Views\\ServerView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\ServerView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\ServerView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:44:47.385Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServerView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IServerView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IServerView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IServerView.cs",
+              "RelativeToolTip": "Views\\IViews\\IServerView.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:25:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMessageView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IMessageView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IMessageView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IMessageView.cs",
+              "RelativeToolTip": "Views\\IViews\\IMessageView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:11:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TagListView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\TagListView.cs",
+              "RelativeDocumentMoniker": "Views\\TagListView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\TagListView.cs",
+              "RelativeToolTip": "Views\\TagListView.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:03:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TagListView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\TagListView.cs",
+              "RelativeDocumentMoniker": "Views\\TagListView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\TagListView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\TagListView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:03:39.262Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\SettingView.cs",
+              "RelativeDocumentMoniker": "Views\\SettingView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\SettingView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\SettingView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:36:30.646Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainView.resx",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.resx",
+              "RelativeDocumentMoniker": "Views\\MainView.resx",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MainView.resx",
+              "RelativeToolTip": "Views\\MainView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-13T01:59:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CloseView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\CloseView.cs",
+              "RelativeDocumentMoniker": "Views\\CloseView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\CloseView.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Views\\CloseView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:14:44.315Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:11:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainViewStyler.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\MainViewStyler.cs",
+              "RelativeDocumentMoniker": "Styler\\MainViewStyler.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\MainViewStyler.cs",
+              "RelativeToolTip": "Styler\\MainViewStyler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:13:39.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoundBorderPanel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundBorderPanel.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundBorderPanel.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundBorderPanel.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Styler\\RoundBorderPanel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:12:28.133Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IListView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IListView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IListView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\IViews\\IListView.cs",
+              "RelativeToolTip": "Views\\IViews\\IListView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:31:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainUiPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Presenters\\MainUiPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainUiPresenter.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Presenters\\MainUiPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainUiPresenter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwCEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:08:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoundBorderPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundBorderPanel.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundBorderPanel.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundBorderPanel.cs",
+              "RelativeToolTip": "Styler\\RoundBorderPanel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:12:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomPictureBox.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\CustomPictureBox.cs",
+              "RelativeDocumentMoniker": "Styler\\CustomPictureBox.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\CustomPictureBox.cs",
+              "RelativeToolTip": "Styler\\CustomPictureBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:05:16.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomPictureBox.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\CustomPictureBox.cs",
+              "RelativeDocumentMoniker": "Styler\\CustomPictureBox.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\CustomPictureBox.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Styler\\CustomPictureBox.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:10:21.066Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OpcView.resx",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.resx",
+              "RelativeDocumentMoniker": "Views\\OpcView.resx",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\OpcView.resx",
+              "RelativeToolTip": "Views\\OpcView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-20T01:08:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:28:52.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoundLabel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundLabel.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundLabel.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundLabel.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Styler\\RoundLabel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:25:08.055Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GraphicsExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Extension\\GraphicsExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\GraphicsExtension.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Extension\\GraphicsExtension.cs",
+              "RelativeToolTip": "Extension\\GraphicsExtension.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:12:24.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:47:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoundButton.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundButton.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundButton.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundButton.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Styler\\RoundButton.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:10:26.051Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MessageView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MessageView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\MessageView.Designer.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\MessageView.Designer.cs",
+              "RelativeToolTip": "Views\\MessageView.Designer.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAlwGUBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:10:10.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoundButton.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundButton.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundButton.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundButton.cs",
+              "RelativeToolTip": "Styler\\RoundButton.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvw4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:05:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoundLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundLabel.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundLabel.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Styler\\RoundLabel.cs",
+              "RelativeToolTip": "Styler\\RoundLabel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:23:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SettingView.cs",
+              "DocumentMoniker": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\SettingView.cs",
+              "RelativeDocumentMoniker": "Views\\SettingView.cs",
+              "ToolTip": "C:\\Users\\Yang\\Desktop\\Carriage_SMS_Project\\Views\\SettingView.cs",
+              "RelativeToolTip": "Views\\SettingView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:18:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAPQSAAAAAAAAAAAiwAwTAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-13T07:44:33.776Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

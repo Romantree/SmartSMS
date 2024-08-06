@@ -1,0 +1,1125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Carriage_SMS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|e:\\carriage_sms_project\\common\\publicutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\publicutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\opclink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\opclink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\presenters\\messagepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:presenters\\messagepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\presenters\\mainuipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:presenters\\mainuipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\repositories\\irepository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:repositories\\irepository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\presenters\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:presenters\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\userclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\userclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\iviews\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\iviews\\iserverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\iserverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\_taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\_taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\iviews\\imessageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\iviews\\imessageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\maincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\maincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\maincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\maincontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\exitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\exitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\exitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\exitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Carriage_SMS_Project||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\db\\mdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:db\\mdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\opcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\opcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\serverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\serverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\taglistview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\taglistview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\messagelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\messagelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\db\\mssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:db\\mssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\opcdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\opcdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\extension\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:extension\\graphicsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\models\\opcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:models\\opcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\roundbutton1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundbutton1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\roundlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\messageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\messageviewstyler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\messageviewstyler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\verticaltextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\verticaltextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\roundborderpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\roundborderpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\styler\\mainviewstyler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:styler\\mainviewstyler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opclistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opclistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opcview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\serverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\serverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\_taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\_taglistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\_taglistview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\_taglistview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\exitview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\exitview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opclistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opclistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\common\\clog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:common\\clog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opcview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opcview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\opclistview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\opclistview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|E:\\Carriage_SMS_Project\\views\\mainview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}|Carriage_SMS_Project.csproj|solutionrelative:views\\mainview.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:981867368:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Presenters\\Singleton.cs",
+              "RelativeDocumentMoniker": "Presenters\\Singleton.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Presenters\\Singleton.cs",
+              "RelativeToolTip": "Presenters\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:42:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessagePresenter.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Presenters\\MessagePresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MessagePresenter.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Presenters\\MessagePresenter.cs",
+              "RelativeToolTip": "Presenters\\MessagePresenter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:00:37.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserClients.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\UserClients.cs",
+              "RelativeDocumentMoniker": "COMMON\\UserClients.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\UserClients.cs",
+              "RelativeToolTip": "COMMON\\UserClients.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:16:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\Server.cs",
+              "RelativeDocumentMoniker": "COMMON\\Server.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\Server.cs",
+              "RelativeToolTip": "COMMON\\Server.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAADUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:09:20.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpcLink.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\OpcLink.cs",
+              "RelativeDocumentMoniker": "COMMON\\OpcLink.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\OpcLink.cs",
+              "RelativeToolTip": "COMMON\\OpcLink.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:58:08.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicUtils.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\PublicUtils.cs",
+              "RelativeDocumentMoniker": "COMMON\\PublicUtils.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\PublicUtils.cs",
+              "RelativeToolTip": "COMMON\\PublicUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:11:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Repositories\\IRepository\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository\\IMessageRepository.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Repositories\\IRepository\\IMessageRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:31:47.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Models\\MessageModel.cs",
+              "RelativeDocumentMoniker": "Models\\MessageModel.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Models\\MessageModel.cs",
+              "RelativeToolTip": "Models\\MessageModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:13:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\Singleton.cs",
+              "RelativeDocumentMoniker": "COMMON\\Singleton.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\Singleton.cs",
+              "RelativeToolTip": "COMMON\\Singleton.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:36:00.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\IViews\\IMainView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IMainView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\IViews\\IMainView.cs",
+              "RelativeToolTip": "Views\\IViews\\IMainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:51:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MessageRepository.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "Repositories\\MessageRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:42:24.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainUiPresenter.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Presenters\\MainUiPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainUiPresenter.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Presenters\\MainUiPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainUiPresenter.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAC4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:42:50.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:11:00.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Progress.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\Progress.cs",
+              "RelativeDocumentMoniker": "COMMON\\Progress.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\Progress.cs",
+              "RelativeToolTip": "COMMON\\Progress.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAASwDUBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:59:05.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:40:45.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:48:29.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\MainView.cs",
+              "RelativeToolTip": "Views\\MainView.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:51:45.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\MainView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:21:22.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IServerView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\IViews\\IServerView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IServerView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\IViews\\IServerView.cs",
+              "RelativeToolTip": "Views\\IViews\\IServerView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:51:36.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_TagListView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\_TagListView.cs",
+              "RelativeDocumentMoniker": "Views\\_TagListView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\_TagListView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:08:34.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMessageView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\IViews\\IMessageView.cs",
+              "RelativeDocumentMoniker": "Views\\IViews\\IMessageView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\IViews\\IMessageView.cs",
+              "RelativeToolTip": "Views\\IViews\\IMessageView.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:44:48.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainContentView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MainContentView.cs",
+              "RelativeDocumentMoniker": "Views\\MainContentView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\MainContentView.cs",
+              "RelativeToolTip": "Views\\MainContentView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:33:16.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainContentView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MainContentView.cs",
+              "RelativeDocumentMoniker": "Views\\MainContentView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\MainContentView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:33:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExitView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\ExitView.cs",
+              "RelativeDocumentMoniker": "Views\\ExitView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\ExitView.cs",
+              "RelativeToolTip": "Views\\ExitView.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAASwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:59:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Carriage_SMS_Project",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Carriage_SMS_Project.csproj",
+              "RelativeDocumentMoniker": "Carriage_SMS_Project.csproj",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Carriage_SMS_Project.csproj",
+              "RelativeToolTip": "Carriage_SMS_Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-10T05:04:09.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExitView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\ExitView.cs",
+              "RelativeDocumentMoniker": "Views\\ExitView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\ExitView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:55:05.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OpcViewModel.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\OpcViewModel.cs",
+              "RelativeDocumentMoniker": "COMMON\\OpcViewModel.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\OpcViewModel.cs",
+              "RelativeToolTip": "COMMON\\OpcViewModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:16:23.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainView.Designer.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MainView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.Designer.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\MainView.Designer.cs",
+              "RelativeToolTip": "Views\\MainView.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:41:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MDB.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\DB\\MDB.cs",
+              "RelativeDocumentMoniker": "DB\\MDB.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\DB\\MDB.cs",
+              "RelativeToolTip": "DB\\MDB.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:19:49.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServerView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\ServerView.cs",
+              "RelativeDocumentMoniker": "Views\\ServerView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\ServerView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:20:16.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OpcView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcView.cs",
+              "RelativeDocumentMoniker": "Views\\OpcView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\OpcView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:38:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TagListView.Designer.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\TagListView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\TagListView.Designer.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\TagListView.Designer.cs",
+              "RelativeToolTip": "Views\\TagListView.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:12:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SettingView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\SettingView.cs",
+              "RelativeDocumentMoniker": "Views\\SettingView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\SettingView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:20:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "E:\\Carriage_SMS_Project\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-23T09:22:07.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:22:08.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TagListView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\TagListView.cs",
+              "RelativeDocumentMoniker": "Views\\TagListView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\TagListView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:01:16.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MessageLogger.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\MessageLogger.cs",
+              "RelativeDocumentMoniker": "COMMON\\MessageLogger.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\MessageLogger.cs",
+              "RelativeToolTip": "COMMON\\MessageLogger.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwDQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:19:08.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MSSQL.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\DB\\MSSQL.cs",
+              "RelativeDocumentMoniker": "DB\\MSSQL.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\DB\\MSSQL.cs",
+              "RelativeToolTip": "DB\\MSSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:21:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OpcData.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\OpcData.cs",
+              "RelativeDocumentMoniker": "COMMON\\OpcData.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\OpcData.cs",
+              "RelativeToolTip": "COMMON\\OpcData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:58:07.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GraphicsExtension.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Extension\\GraphicsExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\GraphicsExtension.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Extension\\GraphicsExtension.cs",
+              "RelativeToolTip": "Extension\\GraphicsExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:10:59.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OpcModel.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Models\\OpcModel.cs",
+              "RelativeDocumentMoniker": "Models\\OpcModel.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Models\\OpcModel.cs",
+              "RelativeToolTip": "Models\\OpcModel.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:17:11.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\Logger.cs",
+              "RelativeDocumentMoniker": "COMMON\\Logger.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\Logger.cs",
+              "RelativeToolTip": "COMMON\\Logger.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:48:23.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Global.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\Global.cs",
+              "RelativeDocumentMoniker": "COMMON\\Global.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\Global.cs",
+              "RelativeToolTip": "COMMON\\Global.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:07:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoundButton.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\RoundButton.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundButton.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Styler\\RoundButton.cs",
+              "RelativeToolTip": "Styler\\RoundButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:29:11.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MessageViewStyler.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\MessageViewStyler.cs",
+              "RelativeDocumentMoniker": "Styler\\MessageViewStyler.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Styler\\MessageViewStyler.cs",
+              "RelativeToolTip": "Styler\\MessageViewStyler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:40:55.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MainViewStyler.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\MainViewStyler.cs",
+              "RelativeDocumentMoniker": "Styler\\MainViewStyler.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Styler\\MainViewStyler.cs",
+              "RelativeToolTip": "Styler\\MainViewStyler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:44:52.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RoundButton1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\RoundButton1.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundButton1.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Styler\\RoundButton1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:29:08.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MessageView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MessageView.cs",
+              "RelativeDocumentMoniker": "Views\\MessageView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\MessageView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:00:41.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MessageView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MessageView.cs",
+              "RelativeDocumentMoniker": "Views\\MessageView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\MessageView.cs",
+              "RelativeToolTip": "Views\\MessageView.cs",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAvwJQBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:48:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoundButton.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\RoundButton.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundButton.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Styler\\RoundButton.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:29:10.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RoundLabel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\RoundLabel.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundLabel.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Styler\\RoundLabel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:51:31.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VerticalTextBox.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\VerticalTextBox.cs",
+              "RelativeDocumentMoniker": "Styler\\VerticalTextBox.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Styler\\VerticalTextBox.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:10:42.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoundBorderPanel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Styler\\RoundBorderPanel.cs",
+              "RelativeDocumentMoniker": "Styler\\RoundBorderPanel.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Styler\\RoundBorderPanel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:20:05.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OpcListView.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcListView.cs",
+              "RelativeDocumentMoniker": "Views\\OpcListView.cs",
+              "ToolTip": "D:\\VSFile\\Carriage_SMS_Project\\Views\\OpcListView.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:16:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OpcView.resx",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcView.resx",
+              "RelativeDocumentMoniker": "Views\\OpcView.resx",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\OpcView.resx",
+              "RelativeToolTip": "Views\\OpcView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-16T07:12:07.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TagListView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\TagListView.cs",
+              "RelativeDocumentMoniker": "Views\\TagListView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\TagListView.cs",
+              "RelativeToolTip": "Views\\TagListView.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:09:12.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SettingView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\SettingView.cs",
+              "RelativeDocumentMoniker": "Views\\SettingView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\SettingView.cs",
+              "RelativeToolTip": "Views\\SettingView.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:49:15.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ServerView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\ServerView.cs",
+              "RelativeDocumentMoniker": "Views\\ServerView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\ServerView.cs",
+              "RelativeToolTip": "Views\\ServerView.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:49:11.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Common.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\Common.cs",
+              "RelativeDocumentMoniker": "COMMON\\Common.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\Common.cs",
+              "RelativeToolTip": "COMMON\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:48:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_TagListView.Designer.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\_TagListView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\_TagListView.Designer.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\_TagListView.Designer.cs",
+              "RelativeToolTip": "Views\\_TagListView.Designer.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAIwCQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:09:31.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_TagListView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\_TagListView.cs",
+              "RelativeDocumentMoniker": "Views\\_TagListView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\_TagListView.cs",
+              "RelativeToolTip": "Views\\_TagListView.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswOwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:11:09.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ExitView.Designer.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\ExitView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\ExitView.Designer.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\ExitView.Designer.cs",
+              "RelativeToolTip": "Views\\ExitView.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAuwJkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T23:44:27.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OpcListView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcListView.cs",
+              "RelativeDocumentMoniker": "Views\\OpcListView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\OpcListView.cs",
+              "RelativeToolTip": "Views\\OpcListView.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:48:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OpcView.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcView.cs",
+              "RelativeDocumentMoniker": "Views\\OpcView.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\OpcView.cs",
+              "RelativeToolTip": "Views\\OpcView.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAArwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:38:34.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CLog.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\COMMON\\CLog.cs",
+              "RelativeDocumentMoniker": "COMMON\\CLog.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\COMMON\\CLog.cs",
+              "RelativeToolTip": "COMMON\\CLog.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwKIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:07:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OpcView.Designer.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\OpcView.Designer.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\OpcView.Designer.cs",
+              "RelativeToolTip": "Views\\OpcView.Designer.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAAwAYBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:27:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OpcListView.Designer.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\OpcListView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\OpcListView.Designer.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\OpcListView.Designer.cs",
+              "RelativeToolTip": "Views\\OpcListView.Designer.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAswIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:26:46.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "AppConfiguration.cs",
+              "ToolTip": "E:\\Carriage_SMS_Project\\AppConfiguration.cs",
+              "RelativeToolTip": "AppConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:51:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MainView.resx",
+              "DocumentMoniker": "E:\\Carriage_SMS_Project\\Views\\MainView.resx",
+              "RelativeDocumentMoniker": "Views\\MainView.resx",
+              "ToolTip": "E:\\Carriage_SMS_Project\\Views\\MainView.resx",
+              "RelativeToolTip": "Views\\MainView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-10T02:54:22.573Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 533,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

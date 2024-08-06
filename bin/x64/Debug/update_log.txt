@@ -1,0 +1,12 @@
+2024-07-08 오후 4:28:47: Updated record with Sabun = 1. Check = False, Message = 에러 전송 메시지1, Name1 = 김대리, Name2 = 박차장, Name3 = 임차장
+2024-07-08 오후 4:28:47: Updated record with Sabun = 2. Check = False, Message = 에러 전송 메시지1, Name1 = 임대리, Name2 = 강차장, Name3 = 서부장
+2024-07-08 오후 4:28:47: Updated record with Sabun = 3. Check = False, Message = 에러 전송 메시지2, Name1 = 박대리, Name2 = 김차장, Name3 = 양부장
+2024-07-08 오후 4:28:47: Updated record with Sabun = 4. Check = False, Message = 에러 전송 메시지3, Name1 = 서대리, Name2 = 양차장, Name3 = 박부장
+2024-07-08 오후 4:29:18: Updated record with Sabun = 1. Check = False, Message = 에러 전송 메시지1, Name1 = 김대리, Name2 = 박차장, Name3 = 임차장
+2024-07-08 오후 4:29:38: Updated record with Sabun = 2. Check = False, Message = 에러 전송 메시지1, Name1 = 임대리, Name2 = 강차장, Name3 = 서부장
+2024-07-08 오후 4:29:44: Updated record with Sabun = 3. Check = False, Message = 에러 전송 메시지2, Name1 = 박대리, Name2 = 김차장, Name3 = 양부장
+2024-07-08 오후 4:29:46: Updated record with Sabun = 4. Check = False, Message = 에러 전송 메시지3, Name1 = 서대리, Name2 = 양차장, Name3 = 박부장
+2024-07-08 오후 4:30:16: Updated record with Sabun = 1. Check = False, Message = 에러 전송 메시지1, Name1 = 김대리, Name2 = 박차장, Name3 = 임차장
+2024-07-08 오후 4:30:18: Updated record with Sabun = 2. Check = False, Message = 에러 전송 메시지1, Name1 = 임대리, Name2 = 강차장, Name3 = 서부장
+2024-07-08 오후 4:30:20: Updated record with Sabun = 3. Check = False, Message = 에러 전송 메시지2, Name1 = 박대리, Name2 = 김차장, Name3 = 양부장
+2024-07-08 오후 4:30:21: Updated record with Sabun = 4. Check = False, Message = 에러 전송 메시지3, Name1 = 서대리, Name2 = 양차장, Name3 = 박부장

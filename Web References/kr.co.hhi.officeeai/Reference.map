@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx?disco" filename="HHI_WebService.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx?wsdl" filename="HHI_WebService.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

@@ -1,0 +1,6 @@
+D:\Carriage_SMS_Project\Carriage_SMS_Project\CommonClassLibs\CommonClassLibs\bin\Debug\CommonClassLibs.dll
+D:\Carriage_SMS_Project\Carriage_SMS_Project\CommonClassLibs\CommonClassLibs\bin\Debug\CommonClassLibs.pdb
+D:\Carriage_SMS_Project\Carriage_SMS_Project\CommonClassLibs\CommonClassLibs\obj\Debug\CommonClassLibs.csproj.AssemblyReference.cache
+D:\Carriage_SMS_Project\Carriage_SMS_Project\CommonClassLibs\CommonClassLibs\obj\Debug\CommonClassLibs.csproj.CoreCompileInputs.cache
+D:\Carriage_SMS_Project\Carriage_SMS_Project\CommonClassLibs\CommonClassLibs\obj\Debug\CommonClassLibs.dll
+D:\Carriage_SMS_Project\Carriage_SMS_Project\CommonClassLibs\CommonClassLibs\obj\Debug\CommonClassLibs.pdb

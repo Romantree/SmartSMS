@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx?wsdl" docRef="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx" xmlns:q1="http://hhibts.com/WS/HHI_IFService" binding="q1:HHI_WebServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx" xmlns:q2="http://hhibts.com/WS/HHI_IFService" binding="q2:HHI_WebServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

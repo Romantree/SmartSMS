@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://hhibts.com/WS/HHI_IFService" xmlns:s1="http://hhibts.com/WS/HO_TRANS_SM" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s3="http://hhibts.com/WS/TXK0SMS2" xmlns:s4="http://hhibts.com/WS/TXK0SMS2_Ora" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://hhibts.com/WS/HHI_IFService" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://hhibts.com/WS/HHI_IFService">
+      <s:import namespace="http://hhibts.com/WS/HO_TRANS_SM" />
+      <s:import namespace="http://hhibts.com/WS/TXK0SMS2" />
+      <s:import namespace="http://hhibts.com/WS/TXK0SMS2_Ora" />
+      <s:element name="Send_HO_TRANS_SM">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s1:WSHO_TRANS_SM_REQ" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_HO_TRANS_SMResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s1:WSHO_TRANS_SM_RSP" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_TXK0SMS2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s3:WSTXK0SMS2_REQ" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_TXK0SMS2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s3:WSTXK0SMS2_RSP" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_Push_Ora">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s4:Ora_Push_REQ" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Send_Push_OraResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s4:Ora_Push_RSP" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://hhibts.com/WS/HO_TRANS_SM">
+      <s:import />
+      <s:element name="WSHO_TRANS_SM_REQ" type="s1:WSHO_TRANS_SM_REQ" />
+      <s:complexType name="WSHO_TRANS_SM_REQ">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" ref="HO_TRANS_SM" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="WSHO_TRANS_SM_RSP" type="s1:WSHO_TRANS_SM_RSP" />
+      <s:complexType name="WSHO_TRANS_SM_RSP">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" ref="STATUS" />
+          <s:element minOccurs="0" maxOccurs="1" ref="DESCRIPTION" />
+          <s:element minOccurs="0" maxOccurs="1" ref="ERROR" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified">
+      <s:element name="HO_TRANS_SM" type="WSHO_TRANS_SM_REQHO_TRANS_SM" />
+      <s:complexType name="WSHO_TRANS_SM_REQHO_TRANS_SM">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="M_REQSYS" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="M_FROM" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="M_SENDTO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="M_SUBJECT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="M_BODY" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="STATUS" type="s:string" />
+      <s:element name="DESCRIPTION" type="s:string" />
+      <s:element name="ERROR" type="s:string" />
+      <s:element name="TXK0SMS2" type="WSTXK0SMS2_REQTXK0SMS2" />
+      <s:complexType name="WSTXK0SMS2_REQTXK0SMS2">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SEND_SABUN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RCV_SABUN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SYS_TYPE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NOTICE_GUBUN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TITLE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SEND_HPNO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RCV_HPNO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CONTENT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALIM_HEAD" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ONLY_SMS" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://hhibts.com/WS/TXK0SMS2">
+      <s:import />
+      <s:element name="WSTXK0SMS2_REQ" type="s3:WSTXK0SMS2_REQ" />
+      <s:complexType name="WSTXK0SMS2_REQ">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" ref="TXK0SMS2" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="WSTXK0SMS2_RSP" type="s3:WSTXK0SMS2_RSP" />
+      <s:complexType name="WSTXK0SMS2_RSP">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" ref="STATUS" />
+          <s:element minOccurs="0" maxOccurs="1" ref="DESCRIPTION" />
+          <s:element minOccurs="0" maxOccurs="1" ref="ERROR" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://hhibts.com/WS/TXK0SMS2_Ora">
+      <s:import />
+      <s:element name="Ora_Push_REQ" type="s4:Ora_Push_REQ_TALK320" />
+      <s:complexType name="Ora_Push_REQ_TALK320">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SEND_SABUN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RCV_SABUN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RCV_ORG" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SYS_TYPE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SMS_GUBUN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TITLE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SEND_HPNO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RCV_HPNO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CONTENT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALIM_HEAD" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FROM_SYS" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Ora_Push_RSP" type="s4:Ora_Push_RSP" />
+      <s:complexType name="Ora_Push_RSP">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" ref="STATUS" />
+          <s:element minOccurs="0" maxOccurs="1" ref="DESCRIPTION" />
+          <s:element minOccurs="0" maxOccurs="1" ref="ERROR" />
+          <s:element minOccurs="0" maxOccurs="1" name="SN" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Send_HO_TRANS_SMSoapIn">
+    <wsdl:part name="parameters" element="tns:Send_HO_TRANS_SM" />
+  </wsdl:message>
+  <wsdl:message name="Send_HO_TRANS_SMSoapOut">
+    <wsdl:part name="parameters" element="tns:Send_HO_TRANS_SMResponse" />
+  </wsdl:message>
+  <wsdl:message name="Send_TXK0SMS2SoapIn">
+    <wsdl:part name="parameters" element="tns:Send_TXK0SMS2" />
+  </wsdl:message>
+  <wsdl:message name="Send_TXK0SMS2SoapOut">
+    <wsdl:part name="parameters" element="tns:Send_TXK0SMS2Response" />
+  </wsdl:message>
+  <wsdl:message name="Send_Push_OraSoapIn">
+    <wsdl:part name="parameters" element="tns:Send_Push_Ora" />
+  </wsdl:message>
+  <wsdl:message name="Send_Push_OraSoapOut">
+    <wsdl:part name="parameters" element="tns:Send_Push_OraResponse" />
+  </wsdl:message>
+  <wsdl:portType name="HHI_WebServiceSoap">
+    <wsdl:operation name="Send_HO_TRANS_SM">
+      <wsdl:input message="tns:Send_HO_TRANS_SMSoapIn" />
+      <wsdl:output message="tns:Send_HO_TRANS_SMSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Send_TXK0SMS2">
+      <wsdl:input message="tns:Send_TXK0SMS2SoapIn" />
+      <wsdl:output message="tns:Send_TXK0SMS2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Send_Push_Ora">
+      <wsdl:input message="tns:Send_Push_OraSoapIn" />
+      <wsdl:output message="tns:Send_Push_OraSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HHI_WebServiceSoap" type="tns:HHI_WebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Send_HO_TRANS_SM">
+      <soap:operation soapAction="http://hhibts.com/WS/HHI_IFService/HHI_WebService/Send_HO_TRANS_SM" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_TXK0SMS2">
+      <soap:operation soapAction="http://hhibts.com/WS/HHI_IFService/HHI_WebService/Send_TXK0SMS2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_Push_Ora">
+      <soap:operation soapAction="http://hhibts.com/WS/HHI_IFService/HHI_WebService/Send_Push_Ora" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="HHI_WebServiceSoap12" type="tns:HHI_WebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Send_HO_TRANS_SM">
+      <soap12:operation soapAction="http://hhibts.com/WS/HHI_IFService/HHI_WebService/Send_HO_TRANS_SM" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_TXK0SMS2">
+      <soap12:operation soapAction="http://hhibts.com/WS/HHI_IFService/HHI_WebService/Send_TXK0SMS2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Send_Push_Ora">
+      <soap12:operation soapAction="http://hhibts.com/WS/HHI_IFService/HHI_WebService/Send_Push_Ora" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HHI_WebService">
+    <wsdl:port name="HHI_WebServiceSoap" binding="tns:HHI_WebServiceSoap">
+      <soap:address location="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="HHI_WebServiceSoap12" binding="tns:HHI_WebServiceSoap12">
+      <soap12:address location="http://officeeai.hhi.co.kr/HHI_IFService/HHI_WebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

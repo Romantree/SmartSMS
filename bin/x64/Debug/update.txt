@@ -1,0 +1,4 @@
+[2024-07-08 오후 5:02:17] 메시지 업데이트: Sabun = 1, CheckFlag = False, Message = 에러 전송 메시지1, Name1 = 김대리, Name2 = 박차장, Name3 = 임차장
+[2024-07-08 오후 5:02:17] 메시지 업데이트: Sabun = 2, CheckFlag = False, Message = 에러 전송 메시지1, Name1 = 임대리, Name2 = 강차장, Name3 = 서부장
+[2024-07-08 오후 5:02:17] 메시지 업데이트: Sabun = 3, CheckFlag = False, Message = 에러 전송 메시지2, Name1 = 박대리, Name2 = 김차장, Name3 = 양부장
+[2024-07-08 오후 5:02:17] 메시지 업데이트: Sabun = 4, CheckFlag = False, Message = 에러 전송 메시지3, Name1 = 서대리, Name2 = 양차장, Name3 = 박부장

@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62ADDFB1-1D7A-4518-9297-A3C2973FF5FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Carriage_SMS_Project</RootNamespace>
+    <AssemblyName>Carriage_SMS_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>게시\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="GodSharp.Opc.Da, Version=2022.308.10.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\GodSharp.Opc.Da.2022.308.10\lib\net46\GodSharp.Opc.Da.dll</HintPath>
+    </Reference>
+    <Reference Include="GodSharp.Opc.Da.OpcAutomation, Version=2022.308.10.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x64\Debug\GodSharp.Opc.Da.OpcAutomation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.8.0.0\lib\net462\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" />
+    <Reference Include="Microsoft.Extensions.Configuration.FileExtensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.FileExtensions.8.0.0\lib\net462\Microsoft.Extensions.Configuration.FileExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.Json.8.0.0\lib\net462\Microsoft.Extensions.Configuration.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Abstractions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.FileProviders.Abstractions.8.0.0\lib\net462\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Physical, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.FileProviders.Physical.8.0.0\lib\net462\Microsoft.Extensions.FileProviders.Physical.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileSystemGlobbing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.FileSystemGlobbing.8.0.0\lib\net462\Microsoft.Extensions.FileSystemGlobbing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcComRcw, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
+      <HintPath>packages\Quick.OpcComRcw.2.1.108\lib\net46\OpcComRcw.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcNetApi, Version=2.1.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
+      <HintPath>packages\Quick.OpcNetApi.2.1.108\lib\net46\OpcNetApi.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcNetApi.Com, Version=2.1.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
+      <HintPath>packages\Quick.OpcNetApi.Com.2.1.108\lib\net46\OpcNetApi.Com.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.8.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.8.0.0\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppConfiguration.cs" />
+    <Compile Include="COMMON\Client.cs" />
+    <Compile Include="COMMON\CLog.cs" />
+    <Compile Include="COMMON\Common.cs" />
+    <Compile Include="COMMON\Global.cs" />
+    <Compile Include="COMMON\Logger.cs" />
+    <Compile Include="COMMON\MessageLogger.cs" />
+    <Compile Include="COMMON\OpcData.cs" />
+    <Compile Include="COMMON\OpcLink.cs" />
+    <Compile Include="COMMON\OpcViewModel.cs" />
+    <Compile Include="COMMON\Progress.cs" />
+    <Compile Include="COMMON\Progress.Designer.cs">
+      <DependentUpon>Progress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMMON\PublicUtils.cs" />
+    <Compile Include="COMMON\Server.cs" />
+    <Compile Include="COMMON\Singleton.cs" />
+    <Compile Include="COMMON\UserClients.cs" />
+    <Compile Include="DB\MDB.cs" />
+    <Compile Include="DB\MSSQL.cs" />
+    <Compile Include="Extension\GraphicsExtension.cs" />
+    <Compile Include="Models\MessageModel.cs" />
+    <Compile Include="Models\OpcModel.cs" />
+    <Compile Include="Models\UserModel.cs" />
+    <Compile Include="Presenters\MainPresenter.cs" />
+    <Compile Include="Presenters\MainUiPresenter.cs" />
+    <Compile Include="Presenters\MessagePresenter.cs" />
+    <Compile Include="Presenters\Singleton.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Repositories\BaseRepository.cs" />
+    <Compile Include="Repositories\IRepository\IMessageRepository.cs" />
+    <Compile Include="Repositories\MainRepository.cs" />
+    <Compile Include="Repositories\MessageRepository.cs" />
+    <Compile Include="Styler\CustomPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Styler\MainViewStyler.cs" />
+    <Compile Include="Styler\MessageViewStyler.cs" />
+    <Compile Include="Styler\RoundBorderPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Styler\RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Styler\RoundButton1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Styler\RoundLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Styler\VerticalTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Styler\VerticalTextBox.Designer.cs">
+      <DependentUpon>VerticalTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ExitView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ExitView.Designer.cs">
+      <DependentUpon>ExitView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\IViews\IMainContentView.cs" />
+    <Compile Include="Views\IViews\IMainView.cs" />
+    <Compile Include="Views\IViews\IMessageView.cs" />
+    <Compile Include="Views\IViews\IServerView.cs" />
+    <Compile Include="Views\MainContentView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\MainContentView.Designer.cs">
+      <DependentUpon>MainContentView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MainView.Designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MessageView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\MessageView.Designer.cs">
+      <DependentUpon>MessageView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OpcListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\OpcListView.Designer.cs">
+      <DependentUpon>OpcListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MonitoringView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\MonitoringView.Designer.cs">
+      <DependentUpon>MonitoringView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ServerView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\ServerView.Designer.cs">
+      <DependentUpon>ServerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SettingView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\SettingView.Designer.cs">
+      <DependentUpon>SettingView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TagListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\TagListView.Designer.cs">
+      <DependentUpon>TagListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\_TagListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\_TagListView.Designer.cs">
+      <DependentUpon>_TagListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\kr.co.hhi.officeeai\Reference.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Styler\RoundBorderPanel.resx">
+      <DependentUpon>RoundBorderPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ExitView.resx">
+      <DependentUpon>ExitView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MainContentView.resx">
+      <DependentUpon>MainContentView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MessageView.resx">
+      <DependentUpon>MessageView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\OpcListView.resx">
+      <DependentUpon>OpcListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MonitoringView.resx">
+      <DependentUpon>MonitoringView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ServerView.resx">
+      <DependentUpon>ServerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\SettingView.resx">
+      <DependentUpon>SettingView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TagListView.resx">
+      <DependentUpon>TagListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\_TagListView.resx">
+      <DependentUpon>_TagListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="appsetting.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\kr.co.hhi.officeeai\HHI_WebService.wsdl" />
+    <None Include="Web References\kr.co.hhi.officeeai\Ora_Push_RSP.datasource" />
+    <None Include="Web References\kr.co.hhi.officeeai\Reference.map" />
+    <None Include="Web References\kr.co.hhi.officeeai\WSHO_TRANS_SM_RSP.datasource" />
+    <None Include="Web References\kr.co.hhi.officeeai\WSTXK0SMS2_RSP.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Image\ship.png" />
+    <None Include="Resources\Unclebob-Spanish-Travel-Ship.72.png" />
+    <None Include="Resources\Unclebob-Spanish-Travel-Ship.64 %281%29.png" />
+    <None Include="Resources\Unclebob-Spanish-Travel-Ship.64 %282%29.png" />
+    <Content Include="Web References\kr.co.hhi.officeeai\HHI_WebService.disco" />
+    <None Include="Resources\Image1.jpg" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\users.png" />
+    <Content Include="Resource\Image\Image1.jpg" />
+    <None Include="Resources\Star.png" />
+    <None Include="Resources\Tank.png" />
+    <None Include="Resources\Message.png" />
+    <None Include="Resources\KeyBoard.png" />
+    <None Include="Resources\MessagePad.png" />
+    <None Include="Resources\ColorSetting2.png" />
+    <None Include="Resources\Bell.png" />
+    <Content Include="Resource\Image\Bell.png" />
+    <None Include="Resources\UserIcon21.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\Menu1.png" />
+    <None Include="Resources\Ipad.png" />
+    <None Include="Resources\Setting.png" />
+    <None Include="Resources\Communication-.png" />
+    <None Include="Resources\UserIcon2.png" />
+    <Content Include="Resource\Image\UserIcon2.png" />
+    <None Include="Resources\UserIcon.png" />
+    <Content Include="Resource\Image\BlkSetting.png" />
+    <Content Include="Resource\Image\BlkSetting2.png" />
+    <Content Include="Resource\Image\Cancel.png" />
+    <Content Include="Resource\Image\ColorSetting.png" />
+    <Content Include="Resource\Image\ColorSetting2.png" />
+    <Content Include="Resource\Image\Communication-.png" />
+    <Content Include="Resource\Image\File.png" />
+    <Content Include="Resource\Image\Home.png" />
+    <Content Include="Resource\Image\Home2.png" />
+    <Content Include="Resource\Image\Ipad.png" />
+    <Content Include="Resource\Image\Menu1.png" />
+    <Content Include="Resource\Image\MessagePad.png" />
+    <Content Include="Resource\Image\Search.png" />
+    <Content Include="Resource\Image\Setting.png" />
+    <Content Include="Resource\Image\Star.png" />
+    <Content Include="Resource\Image\StartMenu.png" />
+    <Content Include="Resource\Image\UserIcon.png" />
+    <Content Include="Resource\Image\XButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
